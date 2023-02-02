@@ -1,4 +1,4 @@
-# Stats-Coursework
+# Stats Coursework
 
 This is a repo containing my submitted coursework for the third module of my Data Science Masters: Statistical Methods and Data Analysis
 
