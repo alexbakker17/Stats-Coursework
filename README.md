@@ -7,3 +7,5 @@ The brief containes the information I was given about the task and the marking c
 The data used was:
   1. The Ames Housing dataset (info can be found about it here: https://cran.r-project.org/web/packages/AmesHousing/index.html)
   2. A provided dataset called soccer (which is inside the data folder)
+
+Mark Achieved: 87%
