@@ -1,6 +1,6 @@
 # Stats Coursework
 
-This is a repo containing my submitted coursework for the third module of my Data Science Masters: Statistical Methods and Data Analysis
+This is a repo containing my submitted coursework for the module Statistical Methods and Data Analysis, on my Data Science MSc.
 
 The brief containes the information I was given about the task and the marking criteria.
 
